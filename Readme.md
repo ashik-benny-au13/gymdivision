@@ -13,8 +13,6 @@ GYM DIV is a userfriendly E-Commerce website model where users can buy gym equip
 - Also added the feature of Forgot password in which user will get the password reset link to registered mail-id (Used mail trap for testing)
 
 
-| Deployment Link | [plugins/googleanalytics/README.md][PlGa] |
-
 ## Install Dependencies
 
 Frontend:
