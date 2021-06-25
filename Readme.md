@@ -10,7 +10,7 @@ GYM DIV is a userfriendly E-Commerce website model where users can buy gym equip
 - Add to cart and Payment (using stripe )features.
 - Admin can view all the products,add product,update product and Delete product.
 - Both users and Admins can see their profile,update details and change password also.
-- Also added the feature of Forgot password in which user will get the password reset link to registered maail-id (Used mail trap for testing)
+- Also added the feature of Forgot password in which user will get the password reset link to registered mail-id (Used mail trap for testing)
 
 
 | Deployment Link | [plugins/googleanalytics/README.md][PlGa] |
